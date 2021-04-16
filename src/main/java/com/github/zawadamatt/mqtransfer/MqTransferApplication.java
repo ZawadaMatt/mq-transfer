@@ -8,6 +8,7 @@ public class MqTransferApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MqTransferApplication.class, args);
+		System.out.println("done");
 	}
 
 }
